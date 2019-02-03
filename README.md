@@ -1,4 +1,4 @@
-This is a Component Object Model (COM) Dynamic-link library (DLL) coded in C# that uses the .NET RNGCryptoServiceProvider class to generate cryptographically secure pseudorandom numbers and strings. It should be used in place of VBscripts Rnd() function.
+This is a Component Object Model (COM) Dynamic-link library (DLL) coded in C# that can be set in Classic ASP using VBscripts "CreateObject" method and allows you to use the .NET RNGCryptoServiceProvider class to generate cryptographically secure pseudorandom numbers and strings. It should be used in place of VBscripts Rnd() function.
 
 Uses the .NET RNGCryptoServiceProvider class
 https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.rngcryptoserviceprovider?view=netframework-4.7.2
