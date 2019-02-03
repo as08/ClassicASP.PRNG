@@ -31,7 +31,7 @@ Run the following command: RegAsm ClassicASP.PRNG.dll /tlb /codebase
 	PRNG.RandomNumber(1,10) ' random number between 1 and 10 (including 10)
 
 	' RandomBytes([number of bytes],[encoding])
-	' encoding can be hex or base64 (base64 by default)
+	' Encoding can be hex or base64 (base64 by default)
 	PRNG.RandomBytes(16,"hex") ' random 128 bit hex token
   
 ## Example output from PRNG.asp
