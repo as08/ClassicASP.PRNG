@@ -99,7 +99,7 @@
 		
 	response.write "<p><b>Random 16 char string:</b> " & random_string(16) & "</p>"
 	
-	response.write "<p><b>Random 16 char sanitized string:</b> " & random_string(16) & "</p>"
+	response.write "<p><b>Random 16 char sanitized string:</b> " & random_sanitized_string(16) & "</p>"
 	
 	response.write "<p><b>Random 12 char password:</b> " & random_password(12) & "</p>"
 	
