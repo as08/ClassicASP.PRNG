@@ -38,7 +38,7 @@ Run the following command: RegAsm ClassicASP.PRNG.dll /tlb /codebase
   
 	Random 16 char string: nJlhVdBNoqKBJ0Jk
 
-	Random 16 char sanitized string: ok1ZbkREcHPMjXtR
+	Random 16 char sanitized string: pdKwXrjWd89VGcxc
 
 	Random 12 char password: L*VlP&pKQ:-^
 
